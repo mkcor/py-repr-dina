@@ -13,4 +13,5 @@ and edited with the following Shell commands:
 
 ```sh
 sed -i 's/T/I/g' responses.csv
+sed -i 's/QT/SK/g' item_skill_Q.csv
 ```
