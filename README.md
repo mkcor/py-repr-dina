@@ -1,6 +1,16 @@
 # py-repr-dina
 
-An attempt at reproducing Stan's education case study "DINA" in Python.
+In this project, we adapt Stan's education case study "DINA" (original work
+http://mc-stan.org/users/documentation/case-studies/dina_independent.html
+Copyright (c) 2017, Seung Yeon Lee licensed under BSD-3-Clause and CC BY).
+We work in Python and follow the workflow outlined in our
+[SciPy 2018 paper](http://conference.scipy.org/proceedings/scipy2018/vamvourellis_corvellec.html)
+("A Bayesian’s journey to a better research workflow" first author @bayesways).
+
+## Presentation
+
+I first presented this work (in progress) at this seminar:
+https://www.deib.polimi.it/eng/events/details/1629
 
 ## Setup
 
