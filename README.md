@@ -5,7 +5,8 @@ http://mc-stan.org/users/documentation/case-studies/dina_independent.html
 Copyright (c) 2017, Seung Yeon Lee licensed under BSD-3-Clause and CC BY).
 We work in Python and follow the workflow outlined in our
 [SciPy 2018 paper](http://conference.scipy.org/proceedings/scipy2018/vamvourellis_corvellec.html)
-("A Bayesian’s journey to a better research workflow" first author @bayesways).
+("A Bayesian’s journey to a better research workflow" first author
+[Konstantinos Vamvourellis](https://github.com/bayesways)).
 
 ## Presentation
 
